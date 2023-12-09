@@ -1,0 +1,1 @@
+This is the GitHub upload for CXPT501 Final project for Linghao Zou (ID-6094). Please find the 'startingData' 'results' 'figures' and 'code' in respective folder on this repository, and feel free to contact zoul@usc.edu for any concerns. Thanks! 
